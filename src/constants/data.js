@@ -40,11 +40,6 @@ const mains = [
     tags: 'Cannellini Beans, Kale, Thyme',
   },
   {
-    title: 'Grilled Black Bass',
-    price: '$34',
-    tags: 'Farro, Sunchokes, Citrus',
-  },
-  {
     title: 'Brick Pressed Jerk Chicken',
     price: '$36',
     tags: 'Carolina Gold Rice, Sweet Potato, Cilantro',
@@ -53,6 +48,11 @@ const mains = [
     title: 'Roasted Koginut Squash',
     price: '$28',
     tags: 'Rye Berries, Shaved Brussels Sprouts, Pecans, Quince, Savory Granola',
+  },
+  {
+    title: 'Grilled Black Bass',
+    price: '$34',
+    tags: 'Farro, Sunchokes, Citrus',
   },
 ];
 
