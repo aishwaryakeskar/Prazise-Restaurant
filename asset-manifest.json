@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Prazise-Restaurant/static/css/main.fba98299.css",
+    "main.js": "/Prazise-Restaurant/static/js/main.52f98dbf.js",
+    "static/media/meal.mp4": "/Prazise-Restaurant/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/bg.png": "/Prazise-Restaurant/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/laurels.jpg": "/Prazise-Restaurant/static/media/laurels.d5e3b28baa612e929a56.jpg",
+    "static/media/welcome.png": "/Prazise-Restaurant/static/media/welcome.d724eb984456d9c97470.png",
+    "static/media/findus.png": "/Prazise-Restaurant/static/media/findus.585c393ccd3671513743.png",
+    "static/media/chef.png": "/Prazise-Restaurant/static/media/chef.02d6c5b61bfdc70303b4.png",
+    "static/media/menu.jpg": "/Prazise-Restaurant/static/media/menu.bec688915b259e7e4984.jpg",
+    "static/media/gallery04.png": "/Prazise-Restaurant/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery03.png": "/Prazise-Restaurant/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/gallery02.png": "/Prazise-Restaurant/static/media/gallery02.27663bd9016b72ccd328.png",
+    "static/media/gallery01.png": "/Prazise-Restaurant/static/media/gallery01.f2cbffe3049d6f91e0df.png",
+    "static/media/knife.png": "/Prazise-Restaurant/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/Prazise-Restaurant/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/P.png": "/Prazise-Restaurant/static/media/P.cd3cd7d5e2d4785d14ac.png",
+    "static/media/prazise.png": "/Prazise-Restaurant/static/media/prazise.80f6801814f85d199995.png",
+    "static/media/logo.png": "/Prazise-Restaurant/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/Prazise-Restaurant/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/Prazise-Restaurant/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/Prazise-Restaurant/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/Prazise-Restaurant/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/Prazise-Restaurant/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "index.html": "/Prazise-Restaurant/index.html",
+    "static/media/spoon.svg": "/Prazise-Restaurant/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.fba98299.css.map": "/Prazise-Restaurant/static/css/main.fba98299.css.map",
+    "main.52f98dbf.js.map": "/Prazise-Restaurant/static/js/main.52f98dbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fba98299.css",
+    "static/js/main.52f98dbf.js"
+  ]
+}
